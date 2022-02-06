@@ -6,11 +6,11 @@
 ##############################################################
 
 #TODO: Fill up the contents below in order to reference your assignment 3 git contents
-AESD_ASSIGNMENTS_VERSION = efb28c5d08cc75bbe7b8996f29973c35cb623a2f
+AESD_ASSIGNMENTS_VERSION = a01878a1b39a6eb870ea49d457a9baea9d308e4c
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # with ssh keys and the automated build/test system.
 # Your site should start with git@github.com:
-AESD_ASSIGNMENTS_SITE = git@github.com:cu-ecen-aeld/assignment-4-samu7988.git
+AESD_ASSIGNMENTS_SITE = git@github.com:cu-ecen-aeld/assignments-3-and-later-samu7988.git
 AESD_ASSIGNMENTS_SITE_METHOD = git
 AESD_ASSIGNMENTS_GIT_SUBMODULES = YES
 
