@@ -2,21 +2,22 @@
 
 ## **Goal**
 
-The project is about implementing and developing smart environment monitoring station using beaglebone green develepment board with the two sensors (temperature and light sensor).Application of the project is to concurrently monitor two sensors using the same I2C bus and log the data. Also there would be provision for exrenal system or task to querry/monitoor the status of the system. 
+The goal of the project is to implement and develop smart environment monitoring station using beaglebone green develepment board with the two sensors (temperature and light sensor).Application of the project is to concurrently monitor two sensors using the same I2C bus and log the data. Also there would be provision for extrenal system or task to querry/monitor the status of the system. The external interface would query the state of system using preferably a socket based protocol.
 
 ## **Motivation**
 The project is intended to use the concepts that I have learnt in the course of Advanced Embedded System Design.<br />
-It will give me an opportunity to 
+It will give me an opportunity to get a hands-on experience on implementing the theoretical concepts taught in the class and explore various hurdles that are encountered during its implementation.
 Following are the learnings that I have learnt:<br />
 1)Write a C program using pthreads in user space <br />
 2)cross-compilation using buildroot toolchain<br />
 3)interprocess communication <br />
 4) use of synchronization primitives.<br />
 
-## **Block Diagram**
+## **Hardware Block Diagram**
+![alt text](https://github.com/cu-ecen-aeld/final-project-samu7988/blob/main/Hardware_Block_Diagram.png)
 
 ## **Software Architecture**
-
+![alt text](https://github.com/cu-ecen-aeld/final-project-samu7988/blob/main/softwareflow_project.png)
 
  # **Target Build System**
  Buildroot
