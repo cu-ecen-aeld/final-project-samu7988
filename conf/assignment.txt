@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+assignment8-buildroot
+=======
+final-project
+>>>>>>> buildroot-assignments-base/hw-beaglebone-black
