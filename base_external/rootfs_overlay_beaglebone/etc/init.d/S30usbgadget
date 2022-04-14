@@ -36,3 +36,4 @@ echo musb-hdrc.0 > UDC
 cd ${OLDPWD}
 
 echo "OK"
+
