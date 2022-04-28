@@ -10,6 +10,10 @@ Click [here](https://github.com/cu-ecen-aeld/final-project-samu7988/wiki/Project
 
 Click [here](https://github.com/cu-ecen-aeld/final-project-samu7988/wiki/Project-Schedule) for Project Schedule page.
 
+# Project Video
+
+Click [here](https://github.com/cu-ecen-aeld/final-project-samu7988/wiki/Sayali-Mule's-Final-project-Video) to see project demo video
+
 # Team Members
 
 * Sayali Mule(samu7988@colorado.edu)
